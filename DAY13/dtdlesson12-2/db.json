@@ -1,0 +1,25 @@
+{
+    "users":[
+        {
+            "fullname":"Do Tien Dung",
+            "age": 19,
+            "class": "K23CNT1"
+        },
+        {
+            "fullname":"Nguyen Van A",
+            "age": 20,
+            "class": "K23CNT2"
+        },
+        {
+            "fullname":"Nguyen Van B",
+            "age": 21,
+            "class": "K23CNT3"
+        }
+    ],
+    "students":[
+        {
+            "studentId": "001"
+        }
+    ]
+    
+}
